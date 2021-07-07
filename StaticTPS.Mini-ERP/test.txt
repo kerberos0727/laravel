@@ -1,0 +1,17 @@
+User Avatar
+https://host55.registrar-servers.com:2083/
+Username: erpnew
+Password: Password2020@!!2020@$!!
+successed cPanal.
+send me your web url.
+User Avatar
+http://test.erp.setup.tps-egy.com/
+
+
+if(b_qty < qty And a_qty >= (qty - b_qty))
+	qty = qty - b_qty;
+if(b_qty < qty And a_qty < (qty - b_qty))
+	qty = a_qty
+if(b_qty >= qty ) Escape
+if(b_qty = qty = 0)
+	qty = 1;
